@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin menambahkan item di source grid dan menambahkan qty yang ingin dialokasikan lebih kecil dari qty available</description>
+   <name>TC4_Release Kuota</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e243c037-a3cb-4877-88f4-77b333784796</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filter Inventory</name>
+   <tag></tag>
+   <elementGuidId>08d0f93f-e8d5-4f05-bfb5-09c3520a31b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.MuiInputBase-input-hhOXZE.MuiOutlinedInput-input-gODKXN.iuLSHy.cnotfI.MuiOutlinedInput-input.MuiInputBase-input.MuiInputBase-inputAdornedStart.MuiInputBase-inputAdornedEnd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Inventory</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiInputBase-input-hhOXZE MuiOutlinedInput-input-gODKXN iuLSHy cnotfI MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root-jIHSNM kMKMds MuiModal-root MuiDialog-root-iabtyb kitBOQ MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container-dwczjS cFxkRz MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root-jqRKNJ ghJWgG MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper-kOmwZf jpEqpL MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthLg MuiDialog-paperFullWidth&quot;]/div[@class=&quot;MuiDialogContent-root-dZOssq iDpmlK MuiDialogContent-root&quot;]/div[@class=&quot;MuiPaper-root-jqRKNJ ghJWgG MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root-haibrP eFmcNf MuiCard-root sc-fVSztU&quot;]/div[@class=&quot;MuiCardContent-root-gAaESu jGCBVS MuiCardContent-root&quot;]/div[@class=&quot;MuiGrid-root-jtDTn hlFbye MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-grid-md-9&quot;]/div[@class=&quot;MuiGrid-root-jtDTn bDHRHP MuiGrid-root MuiGrid-item MuiGrid-grid-md-4&quot;]/div[@class=&quot;sc-bdfBQB kqsrlj MuiBox-root&quot;]/div[@class=&quot;MuiFormControl-root-cJhQdS fRLEgT MuiFormControl-root MuiTextField-root-gGZDs fpwRLL MuiTextField-root&quot;]/div[@class=&quot;MuiInputBase-root-jytTJo MuiOutlinedInput-root-hdGiil zXeNr liIOHJ MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-focused MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd&quot;]/input[@class=&quot;MuiInputBase-input-hhOXZE MuiOutlinedInput-input-gODKXN iuLSHy cnotfI MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]/div/div/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

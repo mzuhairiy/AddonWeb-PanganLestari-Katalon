@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin menambahkan item di source grid dan menambahkan qty yang ingin dialokasikan lebih kecil dari qty available</description>
+   <name>TC2_Add Item in Source Grid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c2fd2c8-aa00-451e-8e35-691274275009</testCaseGuid>
+</TestCaseEntity>

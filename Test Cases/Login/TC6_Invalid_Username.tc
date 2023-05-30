@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan invalid username dan valid password</description>
+   <name>TC6_Invalid_Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18c93f1b-71a5-4dc5-992e-b93ef4b21984</testCaseGuid>
+   <variable>
+      <defaultValue>'dodol'</defaultValue>
+      <description></description>
+      <id>dc067464-4258-45e6-bdda-ac5eb0117f99</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Demo1234!'</defaultValue>
+      <description></description>
+      <id>4699c77c-5beb-4063-a290-17f8a87bd6ab</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>044115c6-92ab-477b-b99e-895fa812dad7</id>
+      <masked>false</masked>
+      <name>expectedElement</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://erp2.panganlestari.com/'</defaultValue>
+      <description></description>
+      <id>10cf2121-0a3a-4d16-afe0-7979025cfa65</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin menambahkan item di source grid dan menambahkan qty yang ingin dialokasikan lebih besar dari qty available</description>
+   <name>TC5_Add Item in Source Grid_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0b8e14b-7c4d-4494-97ff-472b2e0cc778</testCaseGuid>
+</TestCaseEntity>

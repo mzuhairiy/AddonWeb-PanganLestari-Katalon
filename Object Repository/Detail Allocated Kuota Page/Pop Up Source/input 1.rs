@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input 1</name>
+   <tag></tag>
+   <elementGuidId>3d5a6d4a-c2fb-424d-aaa5-ce03d6d42df4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiDataGrid-cell.MuiDataGrid-cellCheckbox.MuiDataGrid-cell--withRenderer.MuiDataGrid-cell--textCenter > span.MuiButtonBase-root-JTLGk.dZKzHU.MuiCheckbox-root.MuiCheckbox-colorPrimary.MuiButtonBase-root.-kigsHn.hYlqbs.MuiCheckbox-root.MuiCheckbox-colorPrimary.PrivateSwitchBase-root.MuiCheckbox-root-jTNAhE.bFuiZL.MuiDataGrid-checkboxInput > input.-jwKFwE.gQKnMJ.PrivateSwitchBase-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>-jwKFwE gQKnMJ PrivateSwitchBase-input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-indeterminate</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select Row checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root-jIHSNM kMKMds MuiModal-root MuiDialog-root-iabtyb kitBOQ MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container-dwczjS cFxkRz MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root-jqRKNJ ghJWgG MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper-kOmwZf jgDCMi MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthMd MuiDialog-paperFullWidth&quot;]/div[@class=&quot;MuiDialogContent-root-dZOssq iDpmlK MuiDialogContent-root&quot;]/div[@class=&quot;MuiPaper-root-jqRKNJ ghJWgG MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root-haibrP eFmcNf MuiCard-root sc-gJNiqw&quot;]/div[@class=&quot;MuiCardContent-root-gAaESu jGCBVS MuiCardContent-root&quot;]/div[@class=&quot;MuiPaper-root-jqRKNJ ghJWgG MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 sc-frSLGL&quot;]/div[1]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-root MuiDataGrid-autoHeight&quot;]/div[@class=&quot;MuiDataGrid-main&quot;]/div[2]/div[@class=&quot;MuiDataGrid-windowContainer&quot;]/div[@class=&quot;MuiDataGrid-window&quot;]/div[@class=&quot;MuiDataGrid-dataContainer&quot;]/div[@class=&quot;MuiDataGrid-viewport&quot;]/div[@class=&quot;MuiDataGrid-renderingZone&quot;]/div[@class=&quot;MuiDataGrid-row MuiDataGrid-row--editable&quot;]/div[@class=&quot;MuiDataGrid-cell MuiDataGrid-cellCheckbox MuiDataGrid-cell--withRenderer MuiDataGrid-cell--textCenter&quot;]/span[@class=&quot;MuiButtonBase-root-JTLGk dZKzHU MuiCheckbox-root MuiCheckbox-colorPrimary MuiButtonBase-root -kigsHn hYlqbs MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root MuiCheckbox-root-jTNAhE bFuiZL MuiDataGrid-checkboxInput&quot;]/input[@class=&quot;-jwKFwE gQKnMJ PrivateSwitchBase-input&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/span/input</value>
+   </webElementXpaths>
+</WebElementEntity>

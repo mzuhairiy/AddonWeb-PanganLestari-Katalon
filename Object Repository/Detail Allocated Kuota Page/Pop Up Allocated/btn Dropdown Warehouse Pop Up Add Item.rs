@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn Dropdown Warehouse Pop Up Add Item</name>
+   <tag></tag>
+   <elementGuidId>69251750-2165-4961-a1f0-7638e7a1ca20</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Add Allocated Kuota  Pangan Lestari/button_Warehouse_MuiButtonBase-root-JTLGk dZKzHU MuiButtonBase-root MuiIconButton-root-jYLena Dubcv MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-popupIndicator-fbrjBg cRECyR MuiAutocomplete-popupIndicator.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Add Allocated Kuota  Pangan Lestari/button_Warehouse_MuiButtonBase-root-JTLGk dZKzHU MuiButtonBase-root MuiIconButton-root-jYLena Dubcv MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-popupIndicator-fbrjBg cRECyR MuiAutocomplete-popupIndicator.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[30]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root-jtDTn.bDHRHP.MuiGrid-root.MuiGrid-item.MuiGrid-grid-md-4 > div.MuiAutocomplete-root-fQdgCV.efEUsu.MuiAutocomplete-root.MuiAutocomplete-hasPopupIcon > div.MuiFormControl-root-cJhQdS.icXdcE.MuiFormControl-root.MuiFormControl-fullWidth.MuiTextField-root-gGZDs.MuiTextField-root > div.MuiInputBase-root-jytTJo.MuiOutlinedInput-root-hdGiil.colVJc.jwpuLy.MuiOutlinedInput-root.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-fullWidth.MuiInputBase-formControl.MuiInputBase-adornedEnd.MuiAutocomplete-inputRoot > div.MuiAutocomplete-endAdornment-gjtxIA.ifZFJu.MuiAutocomplete-endAdornment > button.MuiButtonBase-root-JTLGk.dZKzHU.MuiButtonBase-root.MuiIconButton-root-jYLena.Dubcv.MuiIconButton-root.MuiIconButton-sizeMedium.MuiAutocomplete-popupIndicator-fbrjBg.cRECyR.MuiAutocomplete-popupIndicator</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root-JTLGk dZKzHU MuiButtonBase-root MuiIconButton-root-jYLena Dubcv MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-popupIndicator-fbrjBg cRECyR MuiAutocomplete-popupIndicator</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Open</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Open</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root-jIHSNM kMKMds MuiModal-root MuiDialog-root-iabtyb kitBOQ MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container-dwczjS cFxkRz MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root-jqRKNJ ghJWgG MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper-kOmwZf jpEqpL MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthLg MuiDialog-paperFullWidth&quot;]/div[@class=&quot;MuiDialogContent-root-dZOssq iDpmlK MuiDialogContent-root&quot;]/div[@class=&quot;MuiPaper-root-jqRKNJ ghJWgG MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root-haibrP eFmcNf MuiCard-root sc-fVSztU&quot;]/div[@class=&quot;MuiCardContent-root-gAaESu jGCBVS MuiCardContent-root&quot;]/div[@class=&quot;MuiGrid-root-jtDTn hlFbye MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-grid-md-9&quot;]/div[@class=&quot;MuiGrid-root-jtDTn bDHRHP MuiGrid-root MuiGrid-item MuiGrid-grid-md-4&quot;]/div[@class=&quot;MuiAutocomplete-root-fQdgCV efEUsu MuiAutocomplete-root MuiAutocomplete-hasPopupIcon&quot;]/div[@class=&quot;MuiFormControl-root-cJhQdS icXdcE MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root-gGZDs MuiTextField-root&quot;]/div[@class=&quot;MuiInputBase-root-jytTJo MuiOutlinedInput-root-hdGiil colVJc jwpuLy MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd MuiAutocomplete-inputRoot&quot;]/div[@class=&quot;MuiAutocomplete-endAdornment-gjtxIA ifZFJu MuiAutocomplete-endAdornment&quot;]/button[@class=&quot;MuiButtonBase-root-JTLGk dZKzHU MuiButtonBase-root MuiIconButton-root-jYLena Dubcv MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-popupIndicator-fbrjBg cRECyR MuiAutocomplete-popupIndicator&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[30]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Item'])[3]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::button[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div/div/div/div/div/div/div/div/div/button</value>
+   </webElementXpaths>
+</WebElementEntity>

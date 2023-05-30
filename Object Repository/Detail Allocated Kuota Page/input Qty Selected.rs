@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input Qty Selected</name>
+   <tag></tag>
+   <elementGuidId>27c5f90c-0229-42f5-b840-9db35a911701</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.MuiInputBase-input-hhOXZE.MuiOutlinedInput-input-gODKXN.iuLSHy.bpmUYL.MuiOutlinedInput-input.MuiInputBase-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='0.00']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiInputBase-input-hhOXZE MuiOutlinedInput-input-gODKXN iuLSHy bpmUYL MuiOutlinedInput-input MuiInputBase-input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>0.00</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root-jIHSNM kMKMds MuiModal-root MuiDialog-root-iabtyb kitBOQ MuiDialog-root&quot;]/div[@class=&quot;MuiDialog-container-dwczjS cFxkRz MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root-jqRKNJ ghJWgG MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper-kOmwZf jgDCMi MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthMd MuiDialog-paperFullWidth&quot;]/div[@class=&quot;MuiDialogContent-root-dZOssq iDpmlK MuiDialogContent-root&quot;]/div[@class=&quot;MuiPaper-root-jqRKNJ ghJWgG MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root-haibrP eFmcNf MuiCard-root sc-gsxFXZ&quot;]/div[@class=&quot;MuiCardContent-root-gAaESu jGCBVS MuiCardContent-root&quot;]/div[@class=&quot;MuiPaper-root-jqRKNJ ghJWgG MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 sc-eIgcvw&quot;]/div[1]/div[@class=&quot;MuiDataGrid-root MuiDataGrid-root&quot;]/div[@class=&quot;MuiDataGrid-main&quot;]/div[2]/div[@class=&quot;MuiDataGrid-windowContainer&quot;]/div[@class=&quot;MuiDataGrid-window&quot;]/div[@class=&quot;MuiDataGrid-dataContainer&quot;]/div[@class=&quot;MuiDataGrid-viewport&quot;]/div[@class=&quot;MuiDataGrid-renderingZone&quot;]/div[@class=&quot;MuiDataGrid-row Mui-selected MuiDataGrid-row--editable&quot;]/div[@class=&quot;MuiDataGrid-cell MuiDataGrid-cell--withRenderer MuiDataGrid-cell--textRight&quot;]/div[@class=&quot;MuiFormControl-root-cJhQdS fRLEgT MuiFormControl-root&quot;]/div[@class=&quot;MuiFormControl-root-cJhQdS icXdcE MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root-gGZDs MuiTextField-root&quot;]/div[@class=&quot;MuiInputBase-root-jytTJo MuiOutlinedInput-root-hdGiil colVJc gvizBG MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth Mui-focused MuiInputBase-formControl&quot;]/input[@class=&quot;MuiInputBase-input-hhOXZE MuiOutlinedInput-input-gODKXN iuLSHy bpmUYL MuiOutlinedInput-input MuiInputBase-input&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='0.00']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[2]/div/div/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

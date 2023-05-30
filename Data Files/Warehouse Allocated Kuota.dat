@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Warehouse Allocated Kuota</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>02f2bc46-fb48-49b1-aa06-e775e05edfdc</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>findTestObject%28%22Detail+Allocated+Kuota+Page%2Fli+SDA-AL%22%29 findTestObject%28%22Detail+Allocated+Kuota+Page%2FChoosen+Warehouse%22%29</data>
+   <data>findTestObject%28%22Detail+Allocated+Kuota+Page%2Fli+SDA-BA%22%29 findTestObject%28%22Detail+Allocated+Kuota+Page%2FChoosen+Warehouse%22%29</data>
+   <data>%2F%2F*%5B%40id+%3D+%27free-solo-2-demo-option-0%27+and+%40data-option-index+%3D+%270%27+and+%28text%28%29+%3D+%27SDA-CT+-+SDA-Center%27+or+.+%3D+%27SDA-CT+-+SDA-Center%27%29%5D %2F%2F*%5B%40id+%3D+%27free-solo-2-demo%27+and+%40type+%3D+%27text%27+and+%40value+%3D+%27SDA-CT%27%5D</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>warehouse</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>result</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

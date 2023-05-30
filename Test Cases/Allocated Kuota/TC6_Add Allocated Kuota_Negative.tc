@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin membuat dokumen allocated kuota baru, namun terdapat allocated kuota yg belom dirilis</description>
+   <name>TC6_Add Allocated Kuota_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd060db8-b7a0-413a-95e5-78f0ce7cf414</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('Detail Allocated Kuota Page/li SDA-AL')</defaultValue>
+      <description></description>
+      <id>d1271d98-45a7-4d84-8e7b-24944d0c19a2</id>
+      <masked>false</masked>
+      <name>warehouse</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Detail Allocated Kuota Page/Choosen Warehouse')</defaultValue>
+      <description></description>
+      <id>cbed7f1b-2171-41d6-b4b4-123d3981d821</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+   <variable>
+      <defaultValue>3</defaultValue>
+      <description></description>
+      <id>8ce730fc-f61f-4baf-888c-26593275ddb0</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

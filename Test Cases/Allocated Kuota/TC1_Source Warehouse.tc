@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan user dapat memilih source warehouse, namun masih menggunakan hard code</description>
+   <name>TC1_Source Warehouse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6d7e205e-c40c-4408-85f6-769f53aa345d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('Detail Allocated Kuota Page/li SDA-AL')</defaultValue>
+      <description></description>
+      <id>c6da3d81-f839-4739-84a8-783a63e56fe4</id>
+      <masked>false</masked>
+      <name>warehouse</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Detail Allocated Kuota Page/Choosen Warehouse')</defaultValue>
+      <description></description>
+      <id>9fef2b9f-f1ac-4338-a7c3-ae66f56e1d20</id>
+      <masked>false</masked>
+      <name>expectedResult</name>
+   </variable>
+   <variable>
+      <defaultValue>3</defaultValue>
+      <description></description>
+      <id>76dd93b7-fa48-40f2-9850-4110dd4b73e0</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>

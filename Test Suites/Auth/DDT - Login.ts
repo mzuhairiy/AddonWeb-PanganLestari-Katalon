@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DDT - Login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1dd95703-9ca9-4409-b20c-91f62b7b6e8b</testSuiteGuid>
+   <testCaseLink>
+      <guid>3abbd360-f435-436c-b0c7-f3d3b6ab0547</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/TC1_ValidCredential</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>02c09c08-dee5-4521-b09f-950cc9fcb45c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/User Auth</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>02c09c08-dee5-4521-b09f-950cc9fcb45c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>a6c604a8-8e73-44b7-a879-1db6a8034be5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>02c09c08-dee5-4521-b09f-950cc9fcb45c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>f397cffe-7a3e-4cf0-b114-dff41ef93412</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>02c09c08-dee5-4521-b09f-950cc9fcb45c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expectedElement</value>
+         <variableId>6214225d-878f-43b0-9cae-1601b29f77fd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>23e6fea5-1096-49e1-a78b-d13bc0ebbf7e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

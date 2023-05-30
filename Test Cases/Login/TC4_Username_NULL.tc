@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login hanya menggunakan password saja</description>
+   <name>TC4_Username_NULL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>879dc1a1-8f91-4ac7-9f76-52099a68eefd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bdf518ec-aabe-445a-b37d-3e5fb8f04330</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Demo1234!'</defaultValue>
+      <description></description>
+      <id>f57d22be-9230-48b1-8548-9ecba6492f12</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5da220f9-c729-4ea7-bd06-e99bfb51c322</id>
+      <masked>false</masked>
+      <name>expectedElement</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://erp2.panganlestari.com/'</defaultValue>
+      <description></description>
+      <id>38166465-78cf-4235-a26f-079057aa8a7b</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn Dropdown Allocated WH</name>
+   <tag></tag>
+   <elementGuidId>d0d48f9f-a05c-4f45-bea1-9c1b832268df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiAutocomplete-root-fQdgCV.knzYBd.MuiAutocomplete-root.Mui-focused.MuiAutocomplete-hasPopupIcon > div.MuiFormControl-root-cJhQdS.icXdcE.MuiFormControl-root.MuiFormControl-fullWidth.MuiTextField-root-gGZDs.MuiTextField-root > div.MuiInputBase-root-jytTJo.MuiOutlinedInput-root-hdGiil.colVJc.jwpuLy.MuiOutlinedInput-root.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-fullWidth.MuiInputBase-formControl.MuiInputBase-sizeSmall.MuiInputBase-adornedEnd.MuiAutocomplete-inputRoot > div.MuiAutocomplete-endAdornment-gjtxIA.ifZFJu.MuiAutocomplete-endAdornment > button.MuiButtonBase-root-JTLGk.dZKzHU.MuiButtonBase-root.MuiIconButton-root-jYLena.Dubcv.MuiIconButton-root.MuiIconButton-sizeMedium.MuiAutocomplete-popupIndicator-fbrjBg.cRECyR.MuiAutocomplete-popupIndicator</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @title = 'Open']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root-JTLGk dZKzHU MuiButtonBase-root MuiIconButton-root-jYLena Dubcv MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-popupIndicator-fbrjBg cRECyR MuiAutocomplete-popupIndicator</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Open</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Open</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-eggMyH jIKtRA&quot;]/div[@class=&quot;sc-jNMcJZ ga-doU&quot;]/div[@class=&quot;MuiPaper-root-jqRKNJ ghJWgG MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 sc-dOSRxR sc-bBrNTY bDwHmR hmNNoF&quot;]/div[@class=&quot;MuiPaper-root-jqRKNJ ghJWgG MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root-haibrP eFmcNf MuiCard-root sc-iyePDI iycXhx&quot;]/div[@class=&quot;MuiCardContent-root-gAaESu jGCBVS MuiCardContent-root&quot;]/div[@class=&quot;MuiGrid-root-jtDTn hIRkzP MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-grid-md-12&quot;]/div[@class=&quot;MuiGrid-root-jtDTn cWPdeT MuiGrid-root MuiGrid-item MuiGrid-grid-md-3&quot;]/div[@class=&quot;MuiAutocomplete-root-fQdgCV knzYBd MuiAutocomplete-root Mui-focused MuiAutocomplete-hasPopupIcon&quot;]/div[@class=&quot;MuiFormControl-root-cJhQdS icXdcE MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root-gGZDs MuiTextField-root&quot;]/div[@class=&quot;MuiInputBase-root-jytTJo MuiOutlinedInput-root-hdGiil colVJc jwpuLy MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-sizeSmall MuiInputBase-adornedEnd MuiAutocomplete-inputRoot&quot;]/div[@class=&quot;MuiAutocomplete-endAdornment-gjtxIA ifZFJu MuiAutocomplete-endAdornment&quot;]/button[@class=&quot;MuiButtonBase-root-JTLGk dZKzHU MuiButtonBase-root MuiIconButton-root-jYLena Dubcv MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-popupIndicator-fbrjBg cRECyR MuiAutocomplete-popupIndicator&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/div/div[7]/div/div/div/div/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve Date'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/button</value>
+   </webElementXpaths>
+</WebElementEntity>

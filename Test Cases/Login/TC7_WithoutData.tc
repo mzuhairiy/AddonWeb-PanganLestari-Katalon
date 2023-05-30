@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan username dan password yang kosong</description>
+   <name>TC7_WithoutData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07f58ad9-a023-44d6-8271-682be92a2e87</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>90d40652-fd1a-49f4-b195-fa59ded87393</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1f9ad81-e167-4bca-9793-ce43b82a4791</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c6232eca-0937-4653-8dca-7dfb7e2c7847</id>
+      <masked>false</masked>
+      <name>expectedElement</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://erp2.panganlestari.com/'</defaultValue>
+      <description></description>
+      <id>c1c15338-dfc9-464e-bae9-c9277663ff3c</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

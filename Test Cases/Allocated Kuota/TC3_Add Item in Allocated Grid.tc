@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user ingin menambahkan item di source grid dan menambahkan qty yang ingin dialokasikan lebih kecil dari qty available</description>
+   <name>TC3_Add Item in Allocated Grid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca730354-6291-4738-a903-ae7cba3e5acd</testCaseGuid>
+   <variable>
+      <defaultValue>10</defaultValue>
+      <description></description>
+      <id>82e7ae97-a95e-48b6-a651-a979f03317fc</id>
+      <masked>false</masked>
+      <name>number</name>
+   </variable>
+</TestCaseEntity>
